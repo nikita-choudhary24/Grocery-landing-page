@@ -1,0 +1,61 @@
+html,body{
+    overflow-x:hidden;
+   
+}
+.header-nav{
+    width: 100vw;
+}
+.nav-logo{
+    height: 55px;
+    width: 55px;
+}
+.image{
+height: 85vh;
+object-fit: cover;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+ }
+ .cart-num{ 
+ font-size: 8px;
+ right: 1px;
+  }
+ .modal-image{
+    width: 95%;
+   object-fit: cover;
+ }
+
+.card-image{
+height: 250px;
+object-fit: cover;
+}
+.section-3{
+margin:2rem ;
+}
+.other-cards{
+object-fit: cover;
+height: 350px;
+
+}
+ .modal-price{
+    margin-right: 250px;
+ }
+.card-img-overlay{
+text-shadow: 2px 2px 8px #3b3a3a;
+
+} 
+
+.small-cards-image>img{
+height: 200px;
+}
+/* .newsletter-body{
+height: 300px;
+ width: 70v;
+} */
+/* @media(max-width:887px){
+    .image{
+        height: 50vh;
+        object-fit: contain;
+    }
+} */
